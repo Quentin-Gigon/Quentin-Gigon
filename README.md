@@ -52,10 +52,6 @@ Welcome to my GitHub profile! I'm Quentin Gigon, and this is my special ✨ repo
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Quentin-Gigon&theme=radical)
 
-## 📈 GitHub Activity Graph:
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Quentin-Gigon&theme=react-dark)
-
 ## ✨ Fun Stuff:
 
 ### Profile Views:
