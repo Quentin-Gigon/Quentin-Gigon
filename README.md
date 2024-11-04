@@ -44,16 +44,6 @@ Welcome to my GitHub profile! I'm Quentin Gigon, and this is my special ✨ repo
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-
-## 📊 GitHub Stats:
-
-![Quentin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quentin-Gigon&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quentin-Gigon&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies:
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Quentin-Gigon&theme=radical)
-
 ## ✨ Fun Stuff:
 
 ### Profile Views:
@@ -61,7 +51,4 @@ Welcome to my GitHub profile! I'm Quentin Gigon, and this is my special ✨ repo
 
 ### Random Dev Quote:
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### Support Me:
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/QuentinGigon)
 
