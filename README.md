@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm Quentin Gigon, and this is my special ✨ repo
 - Next.js
 - React
 - Apps Script
+- Fastify
 
 ### 📫 How to Reach Me:
 - **LinkedIn**: [Quentin Gigon](https://www.linkedin.com/in/quentin-gigon-郭昆廷-6a91a694/)
