@@ -3,10 +3,18 @@
 Welcome to my GitHub profile! I'm Quentin Gigon, and this is my special ✨ repository where you can learn more about my projects, skills, and interests.
 
 ### 🔭 Current Projects:
+- **Financial Literacy Blog**: A blog aimed at demistifying financial literacy among everyone in Switzerland, young and old!
+- **Swiss Salary Data Processing System**: Building an ELM-compliant service with TypeScript, Fastify, PostgreSQL, Docker, and GCP Cloud Storage for standardized payroll data handling 🇨🇭
+
+### 🗂️ Past Projects:
 - **Contracting CRM**: A tool to help contracting companies manage contracting projects efficiently.
 - **VR Meditation App**: A VR app built in Unity to help adolescents and young adults with [borderline personality disorder](https://en.wikipedia.org/wiki/Borderline_personality_disorder) and similar mental illnesses.
-- **Financial Literacy Blog**: A blog aimed at demistifying financial literacy among everyone in Switzerland, young and old!
 - **Email Order Processing Automation**: A Google Apps Script tool that automates email parsing, order processing, and document generation within the Google Workspace ecosystem.
+
+
+
+
+
 
 ### 🌱 Currently Learning:
 - Next.js
