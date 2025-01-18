@@ -18,10 +18,7 @@ Welcome to my GitHub profile! I'm Quentin Gigon, and this is my special ✨ repo
 
 
 ### 🌱 Currently Learning:
-- Next.js
-- React
-- Apps Script
-- Fastify
+- LangGraph
 
 ### 📫 How to Reach Me:
 - **LinkedIn**: [Quentin Gigon](https://www.linkedin.com/in/quentin-gigon-郭昆廷-6a91a694/)
