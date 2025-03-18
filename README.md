@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Quentin Gigon, and this is my special ✨ repo
 
 ### 🔭 Current Projects:
 - **Financial Literacy Blog**: A blog aimed at demistifying financial literacy among everyone in Switzerland, young and old!
-- **Multi-Agent AI Systems Research**: Exploring frameworks like LangGraph for enterprise-scale multi-agent system deployments for future projects 🤖
+- **Multi-Agent AI Systems Research**: Exploring frameworks like LangGraph and technologies like RAG and Vector DB (Pinecone) for enterprise-scale multi-agent system deployments for future projects 🤖
 
 ### 🗂️ Past Projects:
 - **Contracting CRM**: A tool to help contracting companies manage contracting projects efficiently.
