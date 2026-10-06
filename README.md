@@ -4,6 +4,10 @@ I'm a **Computer Science MSc student at ETH Zürich**, software engineer, commun
 
 My interests sit at the intersection of **AI, data, software engineering, sports science, and technology**. Alongside my studies, I build communities connecting people around sports, technology, entrepreneurship, and alumni networks.
 
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Quentin_Gigon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-gigon-%E9%83%AD%E6%98%86%E5%BB%B7-6a91a694/)
+
 ## 🎓 MSc Computer Science @ ETH Zürich
 
 I'm currently pursuing my Master's in Computer Science at **ETH Zürich**, majoring in **Data Management Systems**.
@@ -29,7 +33,6 @@ Founder of the **Zurich Sports Science & Technology Community (ZSSTC)**, an ETH-
 
 We're building a community around sports engineering, performance science, data, AI, wearables, biomechanics, and sports technology.
 
-🌐 [zh-sports-science-technology.lovable.app](https://zh-sports-science-technology.lovable.app)
 
 ### 🇨🇭 [Anciens de St.Gall, Zürich](https://www.linkedin.com/feed/)
 
@@ -133,14 +136,6 @@ I'm a **triathlete and endurance sports enthusiast**, racing across triathlon, r
 A lot of what I'm interested in increasingly brings these different worlds together:
 
 **software × data × AI × sports science × endurance performance**
-
----
-
-## 📫 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Quentin_Gigon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-gigon-%E9%83%AD%E6%98%86%E5%BB%B7-6a91a694/)
-
-I'm always interested in meeting people working on **AI, data, sports technology, startups, or endurance sports**.
 
 ---
 
