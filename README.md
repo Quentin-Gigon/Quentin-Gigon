@@ -1,8 +1,8 @@
 # Hi, I'm Quentin 👋
 
-I'm a **Computer Science MSc student at ETH Zürich**, software engineer, community builder, and endurance athlete based in Zürich, Switzerland.
+I'm a Computer Science MSc student at ETH Zürich, software engineer, community builder, and endurance athlete based in Zürich, Switzerland. I hold a BA in Economics from the University of St. Gallen and a BSc in Computer Science from ETH Zürich.
 
-My interests sit at the intersection of **AI, data, software engineering, sports science, and technology**. Alongside my studies, I build communities connecting people around sports, technology, entrepreneurship, and alumni networks.
+My interests span AI, data, software engineering, finance, economics, and sports science, with a particular curiosity for how these fields intersect. Alongside my studies, I build communities that bring people together around sports, technology, entrepreneurship, and alumni networks.
 
 ## 📫 Let's connect
 
@@ -131,11 +131,13 @@ A Google Workspace automation system for parsing incoming orders, processing str
 
 ## 🏊‍♂️🚴‍♂️🏃‍♂️ Outside of code
 
-I'm a **triathlete and endurance sports enthusiast**, racing across triathlon, running, gran fondos, and alpine cycling events.
+I'm a triathlete and endurance sports enthusiast, competing in triathlons, running races, gran fondos, and alpine cycling events.
 
-A lot of what I'm interested in increasingly brings these different worlds together:
+My interests increasingly converge at the intersection of:
 
-**software × data × AI × sports science × endurance performance**
+software × data × AI × sports science × endurance performance
+
+Beyond sport and tech, I'm an avid reader of books across genres, magazines, and the news, as well as a keen home cook and foodie.
 
 ---
 
