@@ -34,7 +34,7 @@ Founder of the **Sports Science & Technology Community (SSTC)**, an ETH-based in
 We're building a community around sports engineering, performance science, data, AI, wearables, biomechanics, and sports technology.
 
 
-### 🇨🇭 [Anciens de St.Gall, Zürich](https://www.linkedin.com/feed/)
+### 🇨🇭 [Anciens de St.Gall, Zürich](https://www.linkedin.com/company/hsg-alumni-suisse-romande-anciens-de-saint-gall/?viewAsMember=true)
 
 Founder and lead of the **Zürich chapter of Anciens de St.Gall**, part of the HSG Alumni community.
 
