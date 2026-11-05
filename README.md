@@ -27,9 +27,9 @@ The project focuses on evaluating the **CycloWatt** cycling power meter through 
 
 ## 🚀 Beyond ETH
 
-### 🏃 [Zurich Sports Science & Technology Community](https://zh-sports-science-technology.lovable.app)
+### 🏃 [Sports Science & Technology Community Zurich](https://zh-sports-science-technology.lovable.app)
 
-Founder of the **Zurich Sports Science & Technology Community (ZSSTC)**, an ETH-based initiative connecting students, researchers, startups, sports organisations, federations, teams, and companies working at the intersection of **sport, science, and technology**.
+Founder of the **Sports Science & Technology Community (SSTC)**, an ETH-based initiative connecting students, researchers, startups, sports organisations, federations, teams, and companies working at the intersection of **sport, science, and technology**.
 
 We're building a community around sports engineering, performance science, data, AI, wearables, biomechanics, and sports technology.
 
